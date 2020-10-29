@@ -4,10 +4,11 @@ https://fabian-nomada-juego-memoria-twitch.netlify.app/
 
 ## Ideas Futuras
 
-- Añadir mas efectos con tilt.js
-- Añadir una animación de salida
-- Tiempo limite
-- Varios Jugadores en tiempo real
-- Niveles de dificultad
+- [x] Añadir mas efectos con tilt.js
+- [x] Colores de fondo de tarjetas diferentes
+- [x] Añadir una animación de salida
+- [x] Niveles de dificultad
+- [x] Tiempo limite
 - Marcador de score
-- Colores de fondo de tarjetas diferentes
+
+- Varios Jugadores en tiempo real
